@@ -1,0 +1,21 @@
+{
+  "_id": "page.about-the-patient",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.about-the-patient--text.auto_name__1",
+      "_type": "text",
+      "label": "Full name",
+      "name": "patient_full_name"
+    },
+    {
+      "_id": "page.about-the-patient--date.auto_name__2",
+      "_type": "date",
+      "hint": "For example, 31 3 1980",
+      "label": "Date of birth",
+      "name": "patient_date_of_birth"
+    }
+  ],
+  "heading": "About the patient",
+  "url": "about-the-patient"
+}
