@@ -9,6 +9,8 @@
     }
   ],
   "heading": "Statement of Information about the Patient",
-  "steps": [],
+  "steps": [
+    "page.about-you"
+  ],
   "url": "/"
 }
