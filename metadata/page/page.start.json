@@ -18,7 +18,8 @@
     "page.is-the-patient-deaf",
     "page.patient-history",
     "page.current-hospital-start-date",
-    "page.hospital-stay-renewal-dates"
+    "page.hospital-stay-renewal-dates",
+    "page.hospital-dates-details-since-first-stay"
   ],
   "url": "/"
 }
