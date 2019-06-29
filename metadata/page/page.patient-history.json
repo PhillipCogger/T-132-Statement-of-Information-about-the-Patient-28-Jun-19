@@ -10,38 +10,40 @@
         {
           "_id": "page.patient-history--fieldset--number.auto_name__1",
           "_type": "number",
-          "label": "Section number",
-          "name": "auto_name__1"
+          "label": "**Section number**",
+          "name": "patient_history_section_number"
         },
         {
           "_id": "page.patient-history--fieldset--date.auto_name__2",
           "_type": "date",
-          "label": "Start (S) or Regrade (R) date",
-          "name": "auto_name__2"
+          "hint": "For example, 27 3 2019",
+          "label": "**Start (S) or Regrade (R) date**",
+          "name": "patient_history_start_or_regrade_date"
         },
         {
           "_id": "page.patient-history--fieldset--number.auto_name__3",
           "_type": "number",
-          "label": "Start (S) or Regrade (R) time",
-          "name": "auto_name__3"
+          "label": "**Start (S) or Regrade (R) time**",
+          "name": "patient_history_start_or_regrade_time"
         },
         {
           "_id": "page.patient-history--fieldset--date.auto_name__4",
           "_type": "date",
-          "label": "End date",
-          "name": "auto_name__4"
+          "hint": "For example, 27 8 2019",
+          "label": "**End date**",
+          "name": "patient_history_end_date"
         },
         {
           "_id": "page.patient-history--fieldset--number.auto_name__5",
           "_type": "number",
-          "label": "End time",
-          "name": "auto_name__5"
+          "label": "**End time**",
+          "name": "patient_history_end_time"
         },
         {
           "_id": "page.patient-history--fieldset--textarea.auto_name__6",
           "_type": "textarea",
-          "label": "Reason",
-          "name": "auto_name__6"
+          "label": "**Reason**",
+          "name": "patient_history_reason"
         }
       ],
       "legend": "Patient History",

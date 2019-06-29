@@ -16,7 +16,8 @@
     "page.responsible-authority-name",
     "page.patient-first-language",
     "page.is-the-patient-deaf",
-    "page.patient-history"
+    "page.patient-history",
+    "page.current-hospital-start-date"
   ],
   "url": "/"
 }

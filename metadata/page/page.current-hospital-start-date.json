@@ -1,0 +1,21 @@
+{
+  "_id": "page.current-hospital-start-date",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.current-hospital-start-date--date.auto_name__1",
+      "_type": "date",
+      "hint": "For example, 27 3 2019",
+      "label": "Give the date when the current period of detention in hospital originally commenced.",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.current-hospital-start-date--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "State the nature of the application, order or direction that is the authority for the detention of the patient.",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "When did the patient's current stay in hospital start?",
+  "url": "current-hospital-start-date"
+}
