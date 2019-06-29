@@ -1,0 +1,34 @@
+{
+  "_id": "page.patient-first-language",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-first-language--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.patient-first-language--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "patient_language_english_yes"
+        },
+        {
+          "_id": "page.patient-first-language--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.patient-first-language--radios.auto_name__1--radio.auto_value__2--text.auto_name__1",
+            "_type": "text",
+            "label": "If you require an interpreter, please say which language or dialect is needed",
+            "name": "interpreter_language_dialect_needed",
+            "show": true
+          },
+          "label": "No",
+          "value": "patient_language_english_no"
+        }
+      ],
+      "name": "patient_first_language"
+    }
+  ],
+  "heading": "Is the patient's first language English?",
+  "url": "patient-first-language"
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "page.is-the-patient-deaf",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.is-the-patient-deaf--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.is-the-patient-deaf--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.is-the-patient-deaf--radios.auto_name__1--radio.auto_value__1--checkboxes",
+            "_type": "checkboxes",
+            "hint": "You can select more than one option",
+            "items": [
+              {
+                "_id": "page.is-the-patient-deaf--radios.auto_name__1--radio.auto_value__1--checkboxes--checkbox.auto_name__1",
+                "_type": "checkbox",
+                "label": "British Sign Language",
+                "name": "british_sign_language"
+              },
+              {
+                "_id": "page.is-the-patient-deaf--radios.auto_name__1--radio.auto_value__1--checkboxes--checkbox.auto_name__1--2",
+                "_type": "checkbox",
+                "label": "Relay interpreter",
+                "name": "relay_interpreter"
+              }
+            ],
+            "legend": "If you require the services of an interpreter, which type do you need?"
+          },
+          "label": "Yes",
+          "value": "patient_deaf_yes"
+        },
+        {
+          "_id": "page.is-the-patient-deaf--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "patient_deaf_no"
+        }
+      ],
+      "name": "is_the_patient_deaf"
+    }
+  ],
+  "heading": "Is the patient deaf?",
+  "url": "is-the-patient-deaf"
+}

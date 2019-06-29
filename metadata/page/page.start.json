@@ -13,7 +13,9 @@
     "page.about-you",
     "page.about-the-patient",
     "page.patient-address",
-    "page.responsible-authority-name"
+    "page.responsible-authority-name",
+    "page.patient-first-language",
+    "page.is-the-patient-deaf"
   ],
   "url": "/"
 }
