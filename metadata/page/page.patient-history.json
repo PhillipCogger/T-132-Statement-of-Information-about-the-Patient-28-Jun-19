@@ -1,0 +1,57 @@
+{
+  "_id": "page.patient-history",
+  "_type": "page.form",
+  "body": "Provide the patient history details in chronological order, including the dates of any previous admissions to, discharge from, or recall to hospital. In each case, say whether the admissions were compulsory or voluntary.",
+  "components": [
+    {
+      "_id": "page.patient-history--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.patient-history--fieldset--number.auto_name__1",
+          "_type": "number",
+          "label": "Section number",
+          "name": "auto_name__1"
+        },
+        {
+          "_id": "page.patient-history--fieldset--date.auto_name__2",
+          "_type": "date",
+          "label": "Start (S) or Regrade (R) date",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.patient-history--fieldset--number.auto_name__3",
+          "_type": "number",
+          "label": "Start (S) or Regrade (R) time",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.patient-history--fieldset--date.auto_name__4",
+          "_type": "date",
+          "label": "End date",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.patient-history--fieldset--number.auto_name__5",
+          "_type": "number",
+          "label": "End time",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.patient-history--fieldset--textarea.auto_name__6",
+          "_type": "textarea",
+          "label": "Reason",
+          "name": "auto_name__6"
+        }
+      ],
+      "legend": "Patient History",
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableAdd": "Add another item",
+      "repeatableDelete": "Remove an item",
+      "repeatableMaximum": 25
+    }
+  ],
+  "heading": "Patient history",
+  "url": "patient-history"
+}
