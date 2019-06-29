@@ -1,0 +1,38 @@
+{
+  "_id": "page.hospital-stay-renewal-dates",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.hospital-stay-renewal-dates--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.hospital-stay-renewal-dates--fieldset--number.auto_name__1",
+          "_type": "number",
+          "label": "**Section number**",
+          "name": "auto_name__1"
+        },
+        {
+          "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__2",
+          "_type": "date",
+          "label": "**Current date**",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__3",
+          "_type": "date",
+          "label": "**Renewal date**",
+          "name": "auto_name__3"
+        }
+      ],
+      "legend": "Hospital stay renewal dates",
+      "namespace": "namespace_auto__2",
+      "repeatable": true,
+      "repeatableAdd": "Add another item",
+      "repeatableDelete": "Remove an item",
+      "repeatableMaximum": 25
+    }
+  ],
+  "heading": "Hospital stay renewal details",
+  "url": "hospital-stay-renewal-dates"
+}
