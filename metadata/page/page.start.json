@@ -12,7 +12,8 @@
   "steps": [
     "page.about-you",
     "page.about-the-patient",
-    "page.patient-address"
+    "page.patient-address",
+    "page.responsible-authority-name"
   ],
   "url": "/"
 }

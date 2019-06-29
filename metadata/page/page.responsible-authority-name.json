@@ -1,0 +1,14 @@
+{
+  "_id": "page.responsible-authority-name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.responsible-authority-name--text.auto_name__1",
+      "_type": "text",
+      "label": "Full name",
+      "name": "responsible_authority_full_name"
+    }
+  ],
+  "heading": "Name of Responsible Authority",
+  "url": "responsible-authority-name"
+}
