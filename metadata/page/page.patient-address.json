@@ -1,0 +1,42 @@
+{
+  "_id": "page.patient-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-address--text.auto_name__1",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "patient_address_building",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.patient-address--text.auto_name__2",
+      "_type": "text",
+      "name": "patient_address_street",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.patient-address--text.auto_name__3",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "patient_address_town_city",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.patient-address--text.auto_name__4",
+      "_type": "text",
+      "label": "County",
+      "name": "patient_address_county",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.patient-address--text.auto_name__5",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "patient_address_postcode",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "What is the patient's address?",
+  "url": "patient-address"
+}
