@@ -1,8 +1,10 @@
 {
   "_id": "service",
+  "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "code": "T132",
+  "name": "T132: Statement of Information about the Patient",
+  "pdfHeading": "T132: Statement of Information about the Patient",
   "phase": "alpha",
-  "phaseText": "Service phase text goes here",
-  "_isa": "@ministryofjustice/fb-components-core=>service"
+  "phaseText": "Service phase text goes here"
 }
