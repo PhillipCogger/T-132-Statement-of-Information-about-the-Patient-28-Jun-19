@@ -26,7 +26,8 @@
     "page.clinician-care-date",
     "page.care-coordinator-details",
     "page.patient-detained-in-hospital",
-    "page.aftercare-details"
+    "page.aftercare-details",
+    "page.nhs-body-details"
   ],
   "url": "/"
 }

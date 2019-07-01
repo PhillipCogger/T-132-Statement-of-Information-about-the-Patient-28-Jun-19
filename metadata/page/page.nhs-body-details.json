@@ -1,0 +1,54 @@
+{
+  "_id": "page.nhs-body-details",
+  "_type": "page.form",
+  "body": "If the patient were to leave hospital, what is the name and address of the NHS body which would have a duty to provide Section 117 after-care services?",
+  "components": [
+    {
+      "_id": "page.nhs-body-details--text.auto_name__35",
+      "_type": "text",
+      "label": "### Name of NHS Authority",
+      "name": "auto_name__35"
+    },
+    {
+      "_id": "page.nhs-body-details--content",
+      "_type": "content",
+      "html": "### Address"
+    },
+    {
+      "_id": "page.nhs-body-details--text.auto_name__30",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__30",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.nhs-body-details--text.auto_name__31",
+      "_type": "text",
+      "name": "auto_name__31",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.nhs-body-details--text.auto_name__32",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__32",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.nhs-body-details--text.auto_name__33",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__33",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.nhs-body-details--text.auto_name__34",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__34",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "NHS authority details",
+  "url": "nhs-authority-details"
+}
