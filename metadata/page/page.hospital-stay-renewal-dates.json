@@ -10,21 +10,21 @@
           "_id": "page.hospital-stay-renewal-dates--fieldset--number.auto_name__1",
           "_type": "number",
           "label": "**Section number**",
-          "name": "auto_name__1"
+          "name": "hospital_stay_renewal_section_number"
         },
         {
           "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__2",
           "_type": "date",
           "hint": "For example, 27 3 2019",
           "label": "**Current date**",
-          "name": "auto_name__2"
+          "name": "hospital_stay_renewal_current_date"
         },
         {
           "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__3",
           "_type": "date",
           "hint": "For example, 27 8 2019",
           "label": "**Renewal date**",
-          "name": "auto_name__3"
+          "name": "hospital_stay_renewal_renewal_date"
         }
       ],
       "legend": "Hospital stay renewal dates",
