@@ -33,7 +33,8 @@
     "page.contacting-patient-nearest-relative",
     "page.patient-capacity",
     "page.non-professional-carer-details",
-    "page.mental-capacity-legal-proceedings"
+    "page.mental-capacity-legal-proceedings",
+    "page.confirmation"
   ],
   "url": "/"
 }
