@@ -18,7 +18,41 @@
     {
       "_id": "page.care-coordinator-details--content",
       "_type": "content",
-      "html": "Address"
+      "html": "### Address"
+    },
+    {
+      "_id": "page.care-coordinator-details--text.auto_name__17",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__17",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.care-coordinator-details--text.auto_name__18",
+      "_type": "text",
+      "name": "auto_name__18",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.care-coordinator-details--text.auto_name__19",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__19",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.care-coordinator-details--text.auto_name__20",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__20",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.care-coordinator-details--text.auto_name__21",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__21",
+      "widthClassInput": "10"
     }
   ],
   "heading": "Care Co-ordinator details",
