@@ -1,0 +1,13 @@
+{
+  "_id": "page.hospital-date-of-admission",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.hospital-date-of-admission--date.auto_name__6",
+      "_type": "date",
+      "label": "What is the admission or transfer date for the current hospital?",
+      "name": "auto_name__6"
+    }
+  ],
+  "url": "hospital-date-of-admission"
+}

@@ -15,12 +15,14 @@
         {
           "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__2",
           "_type": "date",
+          "hint": "For example, 27 3 2019",
           "label": "**Current date**",
           "name": "auto_name__2"
         },
         {
           "_id": "page.hospital-stay-renewal-dates--fieldset--date.auto_name__3",
           "_type": "date",
+          "hint": "For example, 27 8 2019",
           "label": "**Renewal date**",
           "name": "auto_name__3"
         }

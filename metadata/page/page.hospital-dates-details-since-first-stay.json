@@ -9,6 +9,7 @@
         {
           "_id": "page.hospital-dates-details-since-first-stay--fieldset--date.auto_name__4",
           "_type": "date",
+          "hint": "For example, 27 4 2019",
           "label": "**Transfer dates**",
           "name": "auto_name__4"
         },
@@ -19,7 +20,12 @@
           "name": "auto_name__5"
         }
       ],
-      "legend": "Hospital transfer dates and details"
+      "legend": "Dates and details",
+      "namespace": "namespace_auto__3",
+      "repeatable": true,
+      "repeatableAdd": "Add another date",
+      "repeatableDelete": "Remove a date",
+      "repeatableMaximum": 25
     }
   ],
   "heading": "Dates and details of any hospital transfers since their first stay",
