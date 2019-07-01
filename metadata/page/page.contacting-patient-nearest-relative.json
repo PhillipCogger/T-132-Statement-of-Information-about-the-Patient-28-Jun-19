@@ -1,0 +1,34 @@
+{
+  "_id": "page.contacting-patient-nearest-relative",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49--radio.auto_value__3",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49--radio.auto_value__3--textarea.auto_name__50",
+            "_type": "textarea",
+            "label": "Give details of the request",
+            "name": "auto_name__50"
+          },
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49--radio.auto_value__4",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Has the patient made any request that their nearest relative should not be consulted or should not be kept informed about the patient's care or treatment?",
+      "name": "auto_name__49"
+    }
+  ],
+  "heading": "Contacting the patient's nearest relative about treatment",
+  "url": "contacting-patient-nearest-relative"
+}

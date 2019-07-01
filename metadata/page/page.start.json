@@ -29,7 +29,8 @@
     "page.aftercare-details",
     "page.nhs-body-details",
     "page.legal-representative-details",
-    "page.nearest-relative-details"
+    "page.nearest-relative-details",
+    "page.contacting-patient-nearest-relative"
   ],
   "url": "/"
 }
