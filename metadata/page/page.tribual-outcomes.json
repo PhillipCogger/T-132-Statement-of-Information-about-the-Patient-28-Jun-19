@@ -14,16 +14,21 @@
         {
           "_id": "page.tribual-outcomes--fieldset--text.auto_name__11",
           "_type": "text",
+          "label": "Type of hearing",
           "name": "auto_name__11"
         },
         {
           "_id": "page.tribual-outcomes--fieldset--textarea.auto_name__12",
           "_type": "textarea",
+          "label": "Outcome",
           "name": "auto_name__12"
         }
       ],
+      "legend": "Date",
       "namespace": "namespace_auto__4",
       "repeatable": true,
+      "repeatableAdd": "Add another date",
+      "repeatableDelete": "Remove date",
       "repeatableMaximum": 25
     }
   ],
