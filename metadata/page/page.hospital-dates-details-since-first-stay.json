@@ -1,6 +1,27 @@
 {
   "_id": "page.hospital-dates-details-since-first-stay",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.hospital-dates-details-since-first-stay--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.hospital-dates-details-since-first-stay--fieldset--date.auto_name__4",
+          "_type": "date",
+          "label": "**Transfer dates**",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.hospital-dates-details-since-first-stay--fieldset--textarea.auto_name__5",
+          "_type": "textarea",
+          "label": "**Transfer details**",
+          "name": "auto_name__5"
+        }
+      ],
+      "legend": "Hospital transfer dates and details"
+    }
+  ],
   "heading": "Dates and details of any hospital transfers since their first stay",
   "url": "hospital-dates-details-since-first-stay"
 }
