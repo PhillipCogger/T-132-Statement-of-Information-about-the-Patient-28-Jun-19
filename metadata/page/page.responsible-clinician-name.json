@@ -1,0 +1,14 @@
+{
+  "_id": "page.responsible-clinician-name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.responsible-clinician-name--text.auto_name__13",
+      "_type": "text",
+      "hint": "Enter the clinician's full name",
+      "label": "What is the name of the patient's Responsible Clinician?",
+      "name": "auto_name__13"
+    }
+  ],
+  "url": "responsible-clinician-name"
+}

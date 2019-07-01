@@ -1,0 +1,14 @@
+{
+  "_id": "page.clinician-care-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.clinician-care-date--date.auto_name__14",
+      "_type": "date",
+      "hint": "For example, 27 5 2019",
+      "label": "Responsible clinician start date",
+      "name": "auto_name__14"
+    }
+  ],
+  "url": "clinician-care-date"
+}

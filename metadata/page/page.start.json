@@ -21,7 +21,9 @@
     "page.hospital-stay-renewal-dates",
     "page.hospital-dates-details-since-first-stay",
     "page.hospital-date-of-admission",
-    "page.tribual-outcomes"
+    "page.tribual-outcomes",
+    "page.responsible-clinician-name",
+    "page.clinician-care-date"
   ],
   "url": "/"
 }
