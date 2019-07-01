@@ -24,7 +24,8 @@
     "page.tribual-outcomes",
     "page.responsible-clinician-name",
     "page.clinician-care-date",
-    "page.care-coordinator-details"
+    "page.care-coordinator-details",
+    "page.patient-detained-in-hospital"
   ],
   "url": "/"
 }
