@@ -1,0 +1,59 @@
+{
+  "_id": "page.legal-representative-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.legal-representative-details--text.auto_name__36",
+      "_type": "text",
+      "label": "Full name",
+      "name": "auto_name__36"
+    },
+    {
+      "_id": "page.legal-representative-details--content",
+      "_type": "content",
+      "html": "### Address"
+    },
+    {
+      "_id": "page.legal-representative-details--text.auto_name__37",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__37",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.legal-representative-details--text.auto_name__38",
+      "_type": "text",
+      "name": "auto_name__38",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.legal-representative-details--text.auto_name__39",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__39",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.legal-representative-details--text.auto_name__40",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__40",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.legal-representative-details--text.auto_name__41",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__41",
+      "widthClassInput": "10"
+    },
+    {
+      "_id": "page.legal-representative-details--number.auto_name__42",
+      "_type": "number",
+      "label": "Telephone number",
+      "name": "auto_name__42"
+    }
+  ],
+  "heading": "Legal representative details",
+  "url": "legal-representative-details"
+}

@@ -27,7 +27,8 @@
     "page.care-coordinator-details",
     "page.patient-detained-in-hospital",
     "page.aftercare-details",
-    "page.nhs-body-details"
+    "page.nhs-body-details",
+    "page.legal-representative-details"
   ],
   "url": "/"
 }
