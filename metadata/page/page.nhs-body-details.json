@@ -7,7 +7,7 @@
       "_id": "page.nhs-body-details--text.auto_name__35",
       "_type": "text",
       "label": "### NHS Authority",
-      "name": "auto_name__35"
+      "name": "nhs_authority_details"
     },
     {
       "_id": "page.nhs-body-details--content",
@@ -18,34 +18,34 @@
       "_id": "page.nhs-body-details--text.auto_name__30",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__30",
+      "name": "nhs_authority_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.nhs-body-details--text.auto_name__31",
       "_type": "text",
-      "name": "auto_name__31",
+      "name": "nhs_authority_address_street",
       "widthClassInput": "30"
     },
     {
       "_id": "page.nhs-body-details--text.auto_name__32",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__32",
+      "name": "nhs_authority_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.nhs-body-details--text.auto_name__33",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__33",
+      "name": "nhs_authority_address_county",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.nhs-body-details--text.auto_name__34",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__34",
+      "name": "nhs_authority_address_postcode",
       "widthClassInput": "10"
     }
   ],

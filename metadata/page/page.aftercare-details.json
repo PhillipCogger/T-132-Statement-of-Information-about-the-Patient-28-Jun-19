@@ -7,7 +7,7 @@
       "_id": "page.aftercare-details--text.auto_name__24",
       "_type": "text",
       "label": "### Social Services Authority",
-      "name": "auto_name__24"
+      "name": "aftercare_social_services_authority"
     },
     {
       "_id": "page.aftercare-details--content",
@@ -18,34 +18,34 @@
       "_id": "page.aftercare-details--text.auto_name__25",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__25",
+      "name": "social_services_authority_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.aftercare-details--text.auto_name__26",
       "_type": "text",
-      "name": "auto_name__26",
+      "name": "social_services_authority_address_street",
       "widthClassInput": "30"
     },
     {
       "_id": "page.aftercare-details--text.auto_name__27",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__27",
+      "name": "social_services_authority_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.aftercare-details--text.auto_name__28",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__28",
+      "name": "social_services_authority_address_county",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.aftercare-details--text.auto_name__29",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__29",
+      "name": "social_services_authority_address_postcode",
       "widthClassInput": "10"
     }
   ],

@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Enter the clinician's full name",
       "label": "What is the name of the patient's Responsible Clinician?",
-      "name": "auto_name__13"
+      "name": "patient_clinician_name"
     }
   ],
   "url": "responsible-clinician-name"

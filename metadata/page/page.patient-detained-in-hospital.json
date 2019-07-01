@@ -13,20 +13,20 @@
             "_id": "page.patient-detained-in-hospital--radios.auto_name__22--radio.auto_value__1--textarea.auto_name__23",
             "_type": "textarea",
             "label": "Give details of any NHS body that funds or will fund the placement",
-            "name": "auto_name__23"
+            "name": "patient_independent_hospital_details"
           },
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "patient_independent_hospital_yes"
         },
         {
           "_id": "page.patient-detained-in-hospital--radios.auto_name__22--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "patient_independent_hospital_no"
         }
       ],
       "legend": "Is the patient in an independent hospital?",
-      "name": "auto_name__22"
+      "name": "patient_independent_hospital"
     }
   ],
   "url": "patient-detained-in-hospital"

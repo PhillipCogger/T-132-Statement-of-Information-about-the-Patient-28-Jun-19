@@ -7,7 +7,7 @@
       "_type": "date",
       "hint": "For example, 27 5 2019",
       "label": "Responsible clinician start date",
-      "name": "auto_name__14"
+      "name": "patient_clinician_start_date"
     }
   ],
   "url": "clinician-care-date"
