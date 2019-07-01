@@ -11,7 +11,7 @@
       "_id": "page.nearest-relative-details--text.auto_name__43",
       "_type": "text",
       "label": "Full name",
-      "name": "auto_name__43"
+      "name": "nearest_relative_name"
     },
     {
       "_id": "page.nearest-relative-details--content",
@@ -22,34 +22,34 @@
       "_id": "page.nearest-relative-details--text.auto_name__44",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__44",
+      "name": "nearest_relative_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.nearest-relative-details--text.auto_name__45",
       "_type": "text",
-      "name": "auto_name__45",
+      "name": "nearest_relative_address_street",
       "widthClassInput": "30"
     },
     {
       "_id": "page.nearest-relative-details--text.auto_name__46",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__46",
+      "name": "nearest_relative_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.nearest-relative-details--text.auto_name__47",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__47",
+      "name": "nearest_relative_address_county",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.nearest-relative-details--text.auto_name__48",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__48",
+      "name": "nearest_relative_address_postcode",
       "widthClassInput": "10"
     }
   ],
