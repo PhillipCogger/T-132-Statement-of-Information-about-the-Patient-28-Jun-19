@@ -24,6 +24,9 @@
       "_id": "page.legal-representative-details--text.auto_name__38",
       "_type": "text",
       "name": "legal_representative_address_street",
+      "validation": {
+        "required": false
+      },
       "widthClassInput": "30"
     },
     {
