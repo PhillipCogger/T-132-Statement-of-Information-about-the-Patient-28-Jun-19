@@ -20,7 +20,8 @@
     "page.current-hospital-start-date",
     "page.hospital-stay-renewal-dates",
     "page.hospital-dates-details-since-first-stay",
-    "page.hospital-date-of-admission"
+    "page.hospital-date-of-admission",
+    "page.tribual-outcomes"
   ],
   "url": "/"
 }
