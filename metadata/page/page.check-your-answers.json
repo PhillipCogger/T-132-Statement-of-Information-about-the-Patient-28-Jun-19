@@ -1,0 +1,7 @@
+{
+  "_id": "page.check-your-answers",
+  "_type": "page.summary",
+  "sendBody": "By submitting this statement you confirm that, to the best of your knowledge, the details you are providing are correct.",
+  "sendHeading": "Send your statement",
+  "url": "check-your-answers"
+}

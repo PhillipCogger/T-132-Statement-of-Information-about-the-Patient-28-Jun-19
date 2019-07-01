@@ -1,0 +1,6 @@
+{
+  "_id": "page.statement-sent",
+  "_type": "page.confirmation",
+  "heading": "Statement sent",
+  "url": "statement-sent"
+}

@@ -34,7 +34,9 @@
     "page.patient-capacity",
     "page.non-professional-carer-details",
     "page.mental-capacity-legal-proceedings",
-    "page.confirmation"
+    "page.confirmation",
+    "page.check-your-answers",
+    "page.statement-sent"
   ],
   "url": "/"
 }
