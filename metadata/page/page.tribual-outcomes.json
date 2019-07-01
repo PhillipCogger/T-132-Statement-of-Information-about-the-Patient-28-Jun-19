@@ -21,7 +21,10 @@
           "_type": "textarea",
           "name": "auto_name__12"
         }
-      ]
+      ],
+      "namespace": "namespace_auto__4",
+      "repeatable": true,
+      "repeatableMaximum": 25
     }
   ],
   "heading": "Dates and outcomes of any tribunal hearings over the last three years",
