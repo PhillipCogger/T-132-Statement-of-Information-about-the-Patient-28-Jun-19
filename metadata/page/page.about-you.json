@@ -12,7 +12,7 @@
       "_id": "page.about-you--text.auto_name__2",
       "_type": "text",
       "label": "Your role",
-      "name": "about_you_your_role"
+      "name": "about_you_role"
     },
     {
       "_id": "page.about-you--date.auto_name__3",
@@ -25,7 +25,7 @@
       "_id": "page.about-you--fileupload.auto_name__4",
       "_type": "fileupload",
       "label": "Hospital logo",
-      "name": "upload_hospital_logo"
+      "name": "about_you_hospital_logo"
     }
   ],
   "heading": "About you",
