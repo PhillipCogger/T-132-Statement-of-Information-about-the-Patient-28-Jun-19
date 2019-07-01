@@ -13,20 +13,20 @@
             "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49--radio.auto_value__3--textarea.auto_name__50",
             "_type": "textarea",
             "label": "Give details of the request",
-            "name": "auto_name__50"
+            "name": "patient_nearest_relative_treatment_details"
           },
           "label": "Yes",
-          "value": "auto_value__3"
+          "value": "patient_nearest_relative_treatment_yes"
         },
         {
           "_id": "page.contacting-patient-nearest-relative--radios.auto_name__49--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "patient_nearest_relative_treatment_no"
         }
       ],
       "legend": "Has the patient made any request that their nearest relative should not be consulted or should not be kept informed about the patient's care or treatment?",
-      "name": "auto_name__49"
+      "name": "patient_nearest_relative_treatment"
     }
   ],
   "heading": "Contacting the patient's nearest relative about treatment",
