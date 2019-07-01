@@ -30,7 +30,9 @@
     "page.nhs-body-details",
     "page.legal-representative-details",
     "page.nearest-relative-details",
-    "page.contacting-patient-nearest-relative"
+    "page.contacting-patient-nearest-relative",
+    "page.patient-capacity",
+    "page.non-professional-carer-details"
   ],
   "url": "/"
 }
