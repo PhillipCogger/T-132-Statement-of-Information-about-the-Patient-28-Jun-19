@@ -1,0 +1,14 @@
+{
+  "_id": "page.mental-capacity-legal-proceedings",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.mental-capacity-legal-proceedings--textarea.auto_name__59",
+      "_type": "textarea",
+      "label": "Give details of any legal proceedings or other arrangements relating to the patient's mental capacity, or their ability to make decisions or handle their own affairs.",
+      "name": "auto_name__59"
+    }
+  ],
+  "heading": "Are there any legal proceedings relating to the patient's mental capacity?",
+  "url": "mental-capacity-legal-proceedings"
+}
