@@ -1,0 +1,54 @@
+{
+  "_id": "page.aftercare-details",
+  "_type": "page.form",
+  "body": "If the patient were to leave hospital, what is the name and address of the local social services authority which would have a duty to provide Section 117 after-care services?",
+  "components": [
+    {
+      "_id": "page.aftercare-details--text.auto_name__24",
+      "_type": "text",
+      "label": "Name of Social Services Authority",
+      "name": "auto_name__24"
+    },
+    {
+      "_id": "page.aftercare-details--content",
+      "_type": "content",
+      "html": "### Address"
+    },
+    {
+      "_id": "page.aftercare-details--text.auto_name__25",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__25",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.aftercare-details--text.auto_name__26",
+      "_type": "text",
+      "name": "auto_name__26",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.aftercare-details--text.auto_name__27",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__27",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.aftercare-details--text.auto_name__28",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__28",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.aftercare-details--text.auto_name__29",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__29",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "After-care authority details",
+  "url": "aftercare-authority-details"
+}

@@ -25,7 +25,8 @@
     "page.responsible-clinician-name",
     "page.clinician-care-date",
     "page.care-coordinator-details",
-    "page.patient-detained-in-hospital"
+    "page.patient-detained-in-hospital",
+    "page.aftercare-details"
   ],
   "url": "/"
 }
