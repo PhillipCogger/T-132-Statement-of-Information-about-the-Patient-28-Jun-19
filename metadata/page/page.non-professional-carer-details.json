@@ -28,7 +28,8 @@
     {
       "_id": "page.non-professional-carer-details--text.auto_name__55",
       "_type": "text",
-      "name": "non_professional_carer_address_street",
+      "label": "Second line of address",
+      "name": "non_professional_carer_second_line_of_address",
       "validation": {
         "required": false
       },
