@@ -20,7 +20,10 @@
             "_type": "text",
             "label": "If you require an interpreter, please say which language or dialect is needed",
             "name": "interpreter_language_dialect_needed",
-            "show": true
+            "show": true,
+            "validation": {
+              "required": false
+            }
           },
           "label": "No",
           "value": "patient_language_english_no"
