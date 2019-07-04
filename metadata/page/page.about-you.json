@@ -25,7 +25,10 @@
       "_id": "page.about-you--fileupload.auto_name__4",
       "_type": "fileupload",
       "label": "Hospital logo",
-      "name": "about_you_hospital_logo"
+      "name": "about_you_hospital_logo",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "About you",
