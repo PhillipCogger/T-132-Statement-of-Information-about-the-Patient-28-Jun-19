@@ -11,13 +11,19 @@
           "_type": "date",
           "hint": "For example, 27 4 2019",
           "label": "**Transfer dates**",
-          "name": "hospital_transfers_dates"
+          "name": "hospital_transfers_dates",
+          "validation": {
+            "required": false
+          }
         },
         {
           "_id": "page.hospital-dates-details-since-first-stay--fieldset--textarea.auto_name__5",
           "_type": "textarea",
           "label": "**Transfer details**",
-          "name": "hospital_transfers_details"
+          "name": "hospital_transfers_details",
+          "validation": {
+            "required": false
+          }
         }
       ],
       "legend": "Dates and details",
