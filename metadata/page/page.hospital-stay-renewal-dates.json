@@ -24,7 +24,10 @@
           "_type": "date",
           "hint": "For example, 27 8 2019",
           "label": "**Renewal date**",
-          "name": "hospital_stay_renewal_renewal_date"
+          "name": "hospital_stay_renewal_renewal_date",
+          "validation": {
+            "required": false
+          }
         }
       ],
       "legend": "Hospital stay renewal dates",
